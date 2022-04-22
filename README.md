@@ -1,0 +1,2 @@
+# EjercicioFuncionPotencia
+Created with CodeSandbox
